@@ -1,6 +1,5 @@
 <a href="https://t.me/RSStT_Bot"><img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="RSStT icon" src="docs/resources/RSStT_icon.svg"/><a/>
 
-# [RSS to Telegram Bot](https://t.me/RSStT_Bot)
 
 **A Telegram RSS bot that cares about your reading experience**
 
